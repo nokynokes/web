@@ -1,1 +1,4 @@
 RESOURCE-FILES/*
+scala.js/target/*
+scala.js/project/target/*
+scala.js/project/project/*
